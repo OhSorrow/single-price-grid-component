@@ -33,8 +33,8 @@ For me, working with `justify-content`, `justify-items`, `align-content` and `al
 
 ### Links
 
-- Live Site URL: [Single price grid component](https://ohsorrow.github.io/)
-- Solution: [Solution on Frontend Mentor](https://www.frontendmentor.io/)
+- Live Site URL: [Single price grid component](https://ohsorrow.github.io/single-price-grid-component/)
+- Solution: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-gW4fB5Jh5s)
 
 ### Built with
 
